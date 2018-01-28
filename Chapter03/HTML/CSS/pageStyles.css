@@ -3,18 +3,18 @@
 .mic_disabled {
 	opacity: 0.7
 }
-.tutorial {background: #040404; color: #D0D0D0;}
+.tutorial {background: #C0D4FF; color: #D0D0D0;}
 
 .navbar {
   margin-bottom: 0px;
 }
 .speech-only {
-	height: 5.0em;
+	height: 9.0em;
 	overflow: scroll;
 	color: #0000AA;
 	background-color: white;
-	opacity: 0.3;
-	font-size: 1.5em
+	opacity: 0.4;
+	font-size: 2em
 }
 
 tr.hideRow {display: none;}
